@@ -59,7 +59,7 @@ const App = () => {
                 </a>
                 , and{" "}
                 <a
-                  href="https://instagram.com/the.ayush.niraula"
+                  href="https://instagram.com/the.ayush.niraula/"
                   target="_blank"
                   className="underline hover:text-gray-400 "
                 >
@@ -84,7 +84,7 @@ const App = () => {
                   2024 (May) - Present:
                 </strong>
                 <br />
-                Frontend Team Lead at{" "}
+                Front-End Team Lead at{" "}
                 <a
                   href="https://thebigsolutions.com/"
                   target="_blank"
@@ -98,7 +98,7 @@ const App = () => {
                   2023 (May) - 2024 (May):
                 </strong>
                 <br />
-                Frontend Engineer at{" "}
+                Front-End Engineer at{" "}
                 <a
                   href="https://mypay.com.np/"
                   target="_blank"
@@ -110,8 +110,8 @@ const App = () => {
               <p>
                 <strong className="text-green-500">Prior to 2023:</strong>
                 <br />
-                Freelancer specializing in SEO, web application development, and
-                ML/AI projects
+                Freelancer specializing in ML/AI projects, SEO, web application development, and full-stack development.
+                
               </p>
             </div>
           </div>
