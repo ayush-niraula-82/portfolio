@@ -51,7 +51,7 @@ const App = () => {
                 </a>
                 ,{" "}
                 <a
-                  href="https://np.linkedin.com/in/ayush-niraula-b70876198"
+                  href="www.linkedin.com/in/ayush-niraula-b70876198"
                   target="_blank"
                   className="underline hover:text-gray-400 "
                 >
@@ -110,8 +110,68 @@ const App = () => {
               <p>
                 <strong className="text-green-500">Prior to 2023:</strong>
                 <br />
-                Freelancer specializing in ML/AI projects, SEO, web application development, and full-stack development.
-                
+                Freelancer specializing in ML/AI projects, SEO, web application
+                development, and full-stack development.
+              </p>
+            </div>
+
+            <div className="mb-10 mt-10 h-px w-full bg-gray-600"></div>
+
+            <div className="mb-6 flex flex-col gap-6 text-base text-white sm:text-base lg:mb-10">
+              <p>
+                <strong className="text-green-500 text-lg">Projects:</strong>
+                <br />
+                <a
+                  href="https://customer.mypay.com.np"
+                  target="_blank"
+                  className="underline hover:text-gray-400"
+                >
+                  MyPay Customer Portal
+                </a>
+                <br />
+                <a
+                  href="https://agent.mypay.com.np"
+                  target="_blank"
+                  className="underline hover:text-gray-400"
+                >
+                  MyPay Agent Portal
+                </a>
+                <br />
+                <a
+                  href="https://www.xpressewa.com"
+                  target="_blank"
+                  className="underline hover:text-gray-400"
+                >
+                  Xpress Sewa and 20+ remittance applications
+                </a>
+                <br />
+                <a
+                  href="https://mypaygold.com"
+                  target="_blank"
+                  className="underline hover:text-gray-400"
+                >
+                  MyPay Gold
+                </a>
+                <br />
+                <a
+                  href="https://voting.mypay.com.np"
+                  target="_blank"
+                  className="underline hover:text-gray-400"
+                >
+                  MyPay Voting Platform
+                </a>
+                <br />
+                <a
+                  href="https://mypayevents.com"
+                  target="_blank"
+                  className="underline hover:text-gray-400"
+                >
+                  MyPay Events Platform
+                </a>
+                <br />
+                Shree Mandir Admin Portal (Internal)
+                <br />
+                Multi-Vendor Marketplace (Internal)
               </p>
             </div>
           </div>
